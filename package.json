@@ -1,0 +1,24 @@
+{
+  "name": "hola-mundo-nodejs",
+  "version": "0.1.0",
+  "description": "hola mundo NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiltrovira/hola-mundo-nodejs.git"
+  },
+  "keywords": [
+    "hola",
+    "mundo",
+    "nodejs"
+  ],
+  "author": "Wilt Rovira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiltrovira/hola-mundo-nodejs/issues"
+  },
+  "homepage": "https://github.com/wiltrovira/hola-mundo-nodejs#readme"
+}
