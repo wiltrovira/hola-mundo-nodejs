@@ -1,24 +1,25 @@
 {
-  "name": "hola-mundo-nodejs",
+  "name": "http-createserver-101",
   "version": "0.1.0",
-  "description": "hola mundo NodeJS",
+  "description": "hola mundo http createserver",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wiltrovira/hola-mundo-nodejs.git"
+    "url": "git+https://github.com/wiltrovira/http-createserver-101.git"
   },
   "keywords": [
     "hola",
     "mundo",
-    "nodejs"
+    "http",
+    "createserver"
   ],
   "author": "Wilt Rovira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wiltrovira/hola-mundo-nodejs/issues"
+    "url": "https://github.com/wiltrovira/http-createserver-101/issues"
   },
-  "homepage": "https://github.com/wiltrovira/hola-mundo-nodejs#readme"
+  "homepage": "https://github.com/wiltrovira/http-createserver-101#readme"
 }
